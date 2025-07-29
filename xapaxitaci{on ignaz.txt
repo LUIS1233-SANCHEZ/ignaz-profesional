@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Plan de Formación IGNAZ SERVICES</title>
+  <style>
+    body {
+      background: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 1rem 2rem 3rem;
+    }
+    h1, h2, h3 {
+      color: #facc15;
+    }
+    .curso-item {
+      background: #fff;
+      color: #000;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-radius: 8px;
+    }
+    .curso-titulo {
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin-bottom: 0.25rem;
+      color: #b45309;
+    }
+    .curso-categoria {
+      font-weight: 600;
+      font-size: 0.9rem;
+      text-transform: uppercase;
+      margin-bottom: 0.25rem;
+      color: #92400e;
+    }
+    .curso-fundamento {
+      font-size: 0.85rem;
+      color: #555;
+    }
+    .section-text {
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+    }
+    .valores-lista {
+      background: #111;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-top: 1rem;
+    }
+    .valores-lista li {
+      margin-bottom: 0.5rem;
+    }
+    .vista-previa-link {
+      display: block;
+      text-align: center;
+      margin-top: 3rem;
+    }
+    .vista-previa-link iframe {
+      border: 2px solid #facc15;
+      width: 100%;
+      height: 800px;
+      border-radius: 10px;
+    }
+    .boton-flotante {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #facc15;
+      color: #000;
+      padding: 0.75rem 1.25rem;
+      border: none;
+      border-radius: 50px;
+      font-weight: bold;
+      font-size: 0.95rem;
+      cursor: pointer;
+      box-shadow: 0 0 10px #facc15aa;
+      transition: background-color 0.3s ease;
+      z-index: 1000;
+    }
+    .boton-flotante:hover {
+      background-color: #ffe97f;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.85rem;
+      color: #888;
+      border-top: 1px solid #333;
+      margin-top: 4rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header style="text-align:center; margin-bottom:2rem;">
+    <h1>Plan de Formación Profesional</h1>
+    <h2>IGNAZ SERVICES S.A. DE C.V.</h2>
+    <p style="max-width: 600px; margin: auto;">
+      Documento oficial que acredita la existencia de un plan de formación interna para los colaboradores de IGNAZ SERVICES. Este plan es prueba del cumplimiento de lo establecido en la legislación vigente, en especial las disposiciones de la Secretaría del Trabajo y Previsión Social (STPS).
+    </p>
+  </header>
+
+  <section class="section-text">
+    <h2>Misión</h2>
+    <p>Contribuir a la profesionalización del personal mediante capacitación continua, con alto rigor técnico y sentido humano, fortaleciendo la calidad del servicio ofrecido por IGNAZ SERVICES.</p>
+    <h2>Visión</h2>
+    <p>Ser líderes en formación laboral en el ámbito de la enfermería, salud y seguridad ocupacional, reconocidos por la excelencia, cumplimiento legal y vocación de servicio.</p>
+    <h2>Valores</h2>
+    <ul class="valores-lista">
+      <li><strong>Compromiso:</strong> Cumplimos con la ley y los más altos estándares de formación.</li>
+      <li><strong>Profesionalismo:</strong> Instructores con registro DC-5 y enfoque técnico actualizado.</li>
+      <li><strong>Amor por la enfermería:</strong> Promovemos el respeto y pasión por el cuidado de la vida.</li>
+    </ul>
+  </section>
+
+  <section class="section-text">
+    <h2>Importancia del Plan</h2>
+    <p>
+      Este plan refleja el compromiso institucional por desarrollar las competencias técnicas y humanas del personal de forma progresiva. Es una herramienta de profesionalización y cumplimiento legal conforme a los lineamientos de la STPS.
+    </p>
+    <p>
+      El plan es público y está disponible en línea como constancia para auditorías o revisiones externas.
+    </p>
+  </section>
+
+  <section class="vista-previa-link">
+    <h2>📄 Vista previa del expediente completo</h2>
+    <p>Consulta directamente el documento funcional e interactivo con todos los elementos activos (QR, formulario, selección de cursos):</p>
+    <iframe src="https://www.gdriveurl.com/viewer.php?url=https://drive.google.com/uc?export=download&id=1Cn_JPTPpNBr-1Z0ldsb-1ayc8jG42zlj" title="Vista previa del plan de formación"></iframe>
+  </section>
+
+  <section class="section-text">
+    <h2>Observación sobre costos</h2>
+    <p>
+      Actualmente, no se cuenta con el costo inmediato de cada curso debido a que su ejecución requiere contratar formalmente los servicios de instructores capacitados y registrados ante la STPS mediante formato DC-5.
+    </p>
+    <p>
+      Aquellos empleados que participen en la capacitación y aprueben su evaluación, recibirán una constancia oficial DC-3 que certifica las habilidades laborales adquiridas, conforme a lo dispuesto por la STPS.
+    </p>
+  </section>
+
+  <a href="https://www.gdriveurl.com/viewer.php?url=https://drive.google.com/uc?export=download&id=1Cn_JPTPpNBr-1Z0ldsb-1ayc8jG42zlj" target="_blank">
+    <button class="boton-flotante">📂 Abrir expediente completo</button>
+  </a>
+
+  <footer>
+    © 2025 IGNAZ SERVICES S.A. DE C.V. Todos los derechos reservados.  
+    <br />
+    Prohibida su reproducción o modificación sin autorización escrita del titular.
+  </footer>
+
+</body>
+</html>
